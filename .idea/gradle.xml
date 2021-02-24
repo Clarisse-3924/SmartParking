@@ -12,6 +12,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/rave_android" />
+            <option value="$PROJECT_DIR$/rave_cache" />
+            <option value="$PROJECT_DIR$/rave_core" />
+            <option value="$PROJECT_DIR$/rave_java_commons" />
+            <option value="$PROJECT_DIR$/rave_logger" />
+            <option value="$PROJECT_DIR$/rave_presentation" />
+            <option value="$PROJECT_DIR$/rave_remote" />
+            <option value="$PROJECT_DIR$/rave_utils" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

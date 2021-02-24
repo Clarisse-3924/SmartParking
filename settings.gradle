@@ -1,2 +1,10 @@
+include ':rave_android'
+include ':rave_utils'
+include ':rave_java_commons'
+include ':rave_cache'
+include ':rave_remote'
+include ':rave_core'
+include ':rave_presentation'
+include ':rave_logger'
 include ':app'
 rootProject.name = "smartparking"
