@@ -37,4 +37,5 @@
     <string name="accept_barter_payments">Accept Barter Payments</string>
     <string name="allow_saved_cards">Allow saved cards</string>
     <string name="phone_number">phone_number</string>
+    <string name="pay">PAY</string>
 </resources>
